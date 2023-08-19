@@ -23,3 +23,28 @@ Este é um aplicativo da web simples que permite aos usuários fazer um quiz e t
 
    ```bash
    git clone https://github.com/seu-nome-de-usuário/quiz-app.git
+
+2. Navegue até o diretório do projeto:
+
+ ```bash
+Copy code
+cd quiz-app
+````
+3. Instale as dependências:
+
+ ```bash
+Copy code
+npm install
+````
+4. Inicie o servidor de desenvolvimento:
+
+ ```bash
+Copy code
+npm start
+````
+5. Abra seu navegador da web e acesse http://localhost:3000 para acessar o aplicativo.
+
+## Uso
+-Insira seu nome e clique no botão "Iniciar Quiz" para começar o quiz.
+-Responda cada pergunta clicando nas opções de resposta fornecidas.
+-Após completar o quiz, você verá sua pontuação e a porcentagem de respostas corretas.
